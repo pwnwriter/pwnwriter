@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **iamnabeen01@gmail.com**
 
-- ⚡ Fun fact **I do not play any games .**
+- ⚡ Fun fact **I do not play any games out there .**
 
 ## 2. 🚀 Languages and Tools:
 
