@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 My short intro is available at **[My Portfolio](https://iyamnabeen.githuh.io)**
+- 👨‍💻 My short intro is available at **[My Portfolio](iyamnabeen.github.io)**
 
 - 📫 How to reach me **iamnabeen01@gmail.com**
 
