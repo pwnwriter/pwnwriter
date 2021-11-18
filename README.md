@@ -15,7 +15,7 @@
 
 - 👨‍💻 My short intro is available at **[My Portfolio](https://iyamnabeen.github.io)**
 
-- 📫 How to reach me **iamnabeen01@gmail.com**
+- 📫 How to reach me **N4B33N0X01@protonmail.com**
 
 - ⚡ Fun fact **I do not play any games out there .**
 
