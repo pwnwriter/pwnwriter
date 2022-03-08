@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://freepngimg.com/thumb/eye/6-2-eyes-png-10.png"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NABEEN</h1>
-<h3 align="center">A INFOSEC & SECURITY INTHUSIAST, HACKING THINGS TO MAKE THEM SECURE.</h3>
+<h3 align="center">A INFOSEC & SECURITY Enthusiast, HACKING THINGS TO MAKE THEM SECURE.</h3>
 
 
 
