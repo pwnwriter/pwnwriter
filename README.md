@@ -36,7 +36,7 @@
 <br/>
 <br/>
 
-## 4. Connect with me:
+## 3. Connect with me:
 <p align="left">
 
 <a href = "https://twitter.com/iyamnabeen"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
@@ -45,7 +45,7 @@
 
 </p>
 
-## 5. ❤ Views and Followers
+## 4.Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iyamnabeen"</a>
 <a href="https://github.com/iyamnabeen?tab=followers"><img src="https://img.shields.io/github/followers/iyamnabeen?label=Followers&style=social" alt="GitHub Badge"></a>
