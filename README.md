@@ -7,7 +7,7 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Metis Linux](/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -41,7 +41,7 @@
 
 <a href = "https://twitter.com/iyamnabeen"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/Iyamnabeen/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/c/NabeenTiwaree"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://youtube.com/channel/UCziJWU60-20A8Tbw51_Ni3A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
