@@ -7,7 +7,7 @@
 
 ## 1. 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Metis Linux](metislinux.org)**
+- 🔭 I’m currently working on **[Metis Linux](https://github.com/metis-os)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
