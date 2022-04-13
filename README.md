@@ -29,7 +29,7 @@
         <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"
             alt="linux" />
     
-<imt src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
+
  
   ![Snake animation](https://github.com/Iyamnabeen/C_programs/blob/main/github-contribution-grid-snake.svg)
   
