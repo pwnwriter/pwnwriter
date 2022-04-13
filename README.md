@@ -9,7 +9,6 @@
 <div> 
   <a href = "mail at: imnabeen01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer">
-   <a hred="https://reddit.com/u/Nabeen0x01" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/Nabeen0x01">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a> 
