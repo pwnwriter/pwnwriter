@@ -1,19 +1,4 @@
 <div align="center">
- ```
-  
-                 ╭─────────────────────────╮
-                 │                         │
-    .-----.      │  OS        Arch         │
-  .`       `.   ╭│  KERNEL    hardened     │
- / /-() ()-\ \  ││  DE        Haxor        │
- \_|   ○   |_/  ││  SHELL     bash         │
-  '.       .'   ╯│  UPTIME    2h, 3m       │
-    `-._.-'      │  PACKAGES  409          │
-                 │                         │
-                 ╰─────────────────────────╯
-
-  ```
-
   <a href="https://github.com/iyamnabeen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyamnabeen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyamnabeen&layout=compact&langs_count=7&theme=dracula"/>
