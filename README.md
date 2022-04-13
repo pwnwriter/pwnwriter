@@ -25,8 +25,7 @@
   <a href="https://www.linkedin.com/in/iyamnabeen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer">
     
-    ##Languages & tools
-        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"
             alt="linux" />
     
 
