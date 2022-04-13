@@ -1,11 +1,5 @@
 ## [root💀artix ~]$ glow gitstats
 
-
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
-
-
 <div align="center">
   <a href="https://github.com/iyamnabeen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyamnabeen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
