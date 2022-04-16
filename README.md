@@ -30,3 +30,6 @@
   ![Snake animation](https://github.com/Iyamnabeen/C_programs/blob/main/github-contribution-grid-snake.svg)
   
 </div>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=iyamnabeen"</a>
+<a href="https://github.com/iyamnabeen?tab=followers"><img src="https://img.shields.io/github/followers/iyamnabeen?label=Followers&style=social" alt="GitHub Badge"></a>
