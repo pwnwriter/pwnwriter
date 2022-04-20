@@ -1,13 +1,7 @@
 ## [root💀artix ~] glow gitstats
 
-<div align="center">
-  <a href="https://github.com/iyamnabeen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyamnabeen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img align='left' src='https://64.media.tumblr.com/62710c9aed5c3f4b7d23700e39bf13a6/ac2a7e65e2f3ff68-50/s400x600/5cc45aa070225393dfe9efb5e648f0cb09c1ca09.gifv' width='300'>
+  <img align='left' src='https://64.media.tumblr.com/62710c9aed5c3f4b7d23700e39bf13a6/ac2a7e65e2f3ff68-50/s400x600/5cc45aa070225393dfe9efb5e648f0cb09c1ca09.gifv' width='300'>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyamnabeen&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
-  
   ## [root💀artix ~] cat conTact
  
 <div> 
@@ -35,3 +29,11 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iyamnabeen"</a>
 <a href="https://github.com/iyamnabeen?tab=followers"><img src="https://img.shields.io/github/followers/iyamnabeen?label=Followers&style=social" alt="GitHub Badge"></a>
+## [root💀artix ~] glow gitstats
+
+<div align="center">
+  <a href="https://github.com/iyamnabeen">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyamnabeen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyamnabeen&layout=compact&langs_count=7&theme=dracula"/>
+    </div>
