@@ -30,9 +30,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyamnabeen&layout=compact&langs_count=7&theme=dracula"/>
     </div>
  ## [root💀artix ~] go run gts.go
-  ![Snake animation](https://github.com/Iyamnabeen/C_programs/blob/main/github-contribution-grid-snake.svg)>
   
-</div>
+  ![Snake animation](https://github.com/Iyamnabeen/C_programs/blob/main/github-contribution-grid-snake.svg)
+    </div>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iyamnabeen"</a>
 <a href="https://github.com/iyamnabeen?tab=followers"><img src="https://img.shields.io/github/followers/iyamnabeen?label=Followers&style=social" alt="GitHub Badge"></a>
