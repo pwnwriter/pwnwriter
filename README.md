@@ -1,6 +1,9 @@
 ## [root💀artix ~] glow gitstats
 
-  <img align='left' src='https://64.media.tumblr.com/62710c9aed5c3f4b7d23700e39bf13a6/ac2a7e65e2f3ff68-50/s400x600/5cc45aa070225393dfe9efb5e648f0cb09c1ca09.gifv' width='300'>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=iyamnabeen"</a>
+<a href="https://github.com/iyamnabeen?tab=followers"><img src="https://img.shields.io/github/followers/iyamnabeen?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
   ## [root💀artix ~] cat conTact
  
@@ -33,8 +36,5 @@
   
   ![Snake animation](https://github.com/Iyamnabeen/C_programs/blob/main/github-contribution-grid-snake.svg)
     </div>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=iyamnabeen"</a>
-<a href="https://github.com/iyamnabeen?tab=followers"><img src="https://img.shields.io/github/followers/iyamnabeen?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
