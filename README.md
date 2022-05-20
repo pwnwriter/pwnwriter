@@ -8,7 +8,7 @@
     </div>
 
   ## [root💀artix ~] cat conTact
- 
+ [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/iyamnabeen/standard-readme)
 <div> 
   <a href = "mail at: imnabeen01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer">
