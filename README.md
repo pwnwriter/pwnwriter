@@ -8,7 +8,6 @@
 
   ## [im@art ~]$ cat conTact
 
-<div> 
   <a href = "mail at: imnabeen01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer">
     <a href="https://twitter.com/Nabeen0x01">
@@ -18,8 +17,8 @@
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
 </a> 
     
-    ## [im@art ~]$ cat langTools
-    <div>
+ ## [im@art ~]$ cat langTools
+  
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
