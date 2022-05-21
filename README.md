@@ -1,11 +1,14 @@
   ## [im@art ~]$ glow gitstats
+  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+  
 <div align="center">
   <a href="https://github.com/iyamnabeen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyamnabeen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyamnabeen&layout=compact&langs_count=7&theme=dracula"/>
     </div>
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
   ## [im@art ~]$ cat conTact
+  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div> 
   <a href = "mail at: imnabeen01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
@@ -17,9 +20,8 @@
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
 </a> 
     
-    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
     ## [im@art ~]$ cat langTools
+    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
@@ -28,10 +30,9 @@
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
  ## [im@art ~]$ go run gts.go
+    ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
   
   ![Snake animation](https://raw.githubusercontent.com/Iyamnabeen/iyamnabeen/main/Assets/snake.svg)
     </div>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
