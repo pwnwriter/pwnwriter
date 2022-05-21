@@ -30,7 +30,7 @@
  
  ## [root💀artix ~] go run gts.go
   
-  ![Snake animation](https://github.com/Iyamnabeen/C_programs/blob/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Iyamnabeen/iyamnabeen/main/Assets/snake.svg)
     </div>
 
 
