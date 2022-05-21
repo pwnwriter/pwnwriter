@@ -1,4 +1,4 @@
-  ```-[root💀artix ~] glow gitstats
+  ```- [root💀artix ~] glow gitstats
   ```
 <div align="center">
   <a href="https://github.com/iyamnabeen">
