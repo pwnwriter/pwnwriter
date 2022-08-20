@@ -6,7 +6,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyamnabeen&layout=compact&langs_count=7&theme=dracula"/>
     </div>
 
-  ## [im@art ~]$ cat conTact
+  ## [im@art ~]$ ul < /conTact
 
   
 <a href="mailto:iym.nabeen@gmail.com">
