@@ -1,38 +1,16 @@
-  ### [im@art ~]$ glow -s .yml gitstats
-  
+### Hi, i'm samikshya sharma, a tech enthusiast and a girl who cares too much about being extraordinary!
 <div align="center">
-  <a href="https://github.com/iyamnabeen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyamnabeen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyamnabeen&layout=compact&langs_count=7&theme=dracula"/>
-    </div>
+  <a href="https://github.com/samikshyash">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samikshyash&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikshyash&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://youtube.com/channel/UCvDZmOLRHNG2NIddal6c3KA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    </div> 
+<img align="center" alt="CSS" height="100" width="120" src="https://i.pinimg.com/564x/4e/7e/6b/4e7e6bdabc7bf820becde2c2e4c06188.jpg">
 
-  ### [im@art ~]$ echo "$(<contact.txt)"
-
-
-  
-<a href="mailto:iym.nabeen@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> 
-  <a href="https://www.archlinux.org/" target="_blank" rel="noreferrer">
-    <a href="https://twitter.com/Nabeen0x01">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a> 
-<a href="https://reddit.com/u/Nabeen0x01">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-</a> 
-    
- ### [im@art ~]$ ul < / langTools.txt
-  
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-![](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)
-![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-    
- ### [im@art ~]$ nsxiv -b snake.svg
-  
-  ![Snake animation](https://raw.githubusercontent.com/Iyamnabeen/iyamnabeen/main/Assets/snake.svg)
-    </div>
-
+</div>
+ 
