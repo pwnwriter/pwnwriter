@@ -1,9 +1,9 @@
   ### [im@art ~]$ glow -s .yml gitstats
   
 <div align="center">
-  <a href="https://github.com/iyamnabeen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyamnabeen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyamnabeen&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/pwnwriter">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pwnwriter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnwriter&layout=compact&langs_count=7&theme=dracula"/>
     </div>
 
   ### [im@art ~]$ echo "$(<contact.txt)"
@@ -33,6 +33,6 @@
     
  ### [im@art ~]$ nsxiv -a -b snake.svg
   
-  ![Snake animation](https://raw.githubusercontent.com/Iyamnabeen/iyamnabeen/main/pix/snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Iyamnabeen/pwnwriter/main/pix/snake.svg)
     </div>
 
