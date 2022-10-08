@@ -33,6 +33,6 @@
     
  ### [im@art ~]$ nsxiv -a -b snake.svg
   
-  ![Snake animation](https://raw.githubusercontent.com/Iyamnabeen/pwnwriter/main/pix/snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/pwnwriter/pwnwriter/main/pix/snake.svg)
     </div>
 
