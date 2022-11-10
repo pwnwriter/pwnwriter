@@ -16,7 +16,7 @@
  ~
  <a href="https://twitter.com/pwnwriter"> ✨ twitter </a>
  ~
- <a href="https://pwnwriter.xyz"> ☀️ website </a> 
+ <a href="https://matrix.to/#/@pwnwriter:matrix.org"> ☀️ matrix </a> 
  - </pwn></b></p>
  
 <br>
