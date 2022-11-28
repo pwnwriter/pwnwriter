@@ -6,9 +6,7 @@
       <br>
       <pwn>You'd like to f#ck my code, wouldn't you?<br></pwn>
   </p>
-
 <br>
-
 <p align="center"><b><pwn> - 
  <a href="https://www.reddit.com/user/Nabeen0x01">🌙 reddit </a>
  ~
