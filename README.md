@@ -12,7 +12,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:hey.nabeen@tuta.io"><img width="26px" alt="mail" title="mail" src="https://github.com/pwnwriter/files/raw/main/pwnwriter/social-icons/mail.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://reddit.com/user/Nabeen0x01"><img width="26px" alt="reddit" title="reddit" src="https://github.com/pwnwriter/files/raw/main/pwnwriter/social-icons/reddit.png"></a>
+   <a href="https://ko-fi.com/pwnwriter"><img width="26px" alt="ko-fi" title="ko-fi" src="https://github.com/pwnwriter/files/raw/main/pwnwriter/social-icons/ko-fi.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
 
