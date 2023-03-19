@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://twitter.com/pwnwriter"><img width="26px" alt="twitter" title="twitter" src="https://github.com/pwnwriter/files/raw/main/pwnwriter/social-icons/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:hey.nabeen@tuta.io"><img width="26px" alt="mail" title="mail" src="https://github.com/pwnwriter/files/raw/main/pwnwriter/social-icons/mail.png"/></a>
+  <a href="mailto:hey@pwnwriter.xyz"><img width="26px" alt="mail" title="mail" src="https://github.com/pwnwriter/files/raw/main/pwnwriter/social-icons/mail.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://ko-fi.com/pwnwriter"><img width="26px" alt="ko-fi" title="ko-fi" src="https://github.com/pwnwriter/files/raw/main/pwnwriter/social-icons/ko-fi.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
