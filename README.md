@@ -18,7 +18,7 @@
   </h6>
   </p> 
   
-<details><summary></summary>
+<details><summary>bruh ☄️</summary>
  
 ```rust
 struct Pwnwriter;
@@ -56,4 +56,4 @@ impl Hacker for Pwnwriter {
 }
 ```
 
-  
+</details>
