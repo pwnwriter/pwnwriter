@@ -18,6 +18,8 @@
   </h6>
   </p> 
   
+<!--
+  
 <details><summary>bruh ☄️</summary>
  
 ```rust
@@ -54,6 +56,9 @@ impl Hacker for Pwnwriter {
         "#
     }
 }
+
 ```
 
 </details>
+
+--->
