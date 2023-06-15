@@ -17,6 +17,13 @@
   </p>
   </h6>
   </p> 
+
+
+ <h1 align="right">
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31lathjfpaw63lxwowdawllpmdri&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31lathjfpaw63lxwowdawllpmdri&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff00ff&bar_color_cover=false)
+
+</h1>
   
 <!--
   
