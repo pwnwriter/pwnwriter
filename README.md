@@ -6,7 +6,15 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+pwnwriter+here+:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=10&size=22" />
 <br>
 </br>
-<!-- Social icons -->
+
+<sub><samp><a href="https://pwnwriter.xyz">website</a> // <a href="https://ko-fi.com/pwnwriter">Ko-fi</a> // <a href="https://twitts.pwnwriter.xyz">Twitter</a> // <a href="https://gpg.pwnwriter.xyz">Gpg keys</samp></sub> 
+
+<br/>
+
+
+
+
+<!-- Social icons
 <p align="center">
   <a href="https://twitter.com/pwnwriter"><img width="26px" alt="twitter" title="twitter" src="https://github.com/pwnwriter/files/raw/main/pwnwriter/social-icons/twitter.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -17,8 +25,9 @@
   </p>
   </h6>
   </p> 
-
+  
 <!--
+
  <h1 align="right">
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31lathjfpaw63lxwowdawllpmdri&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31lathjfpaw63lxwowdawllpmdri&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=ff00ff&bar_color_cover=false)
