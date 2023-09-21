@@ -1,15 +1,14 @@
 <!-- Macos like icons -->
- <p align="left"><b><pwn>🔴 🟡 🟢</pwn></b></p>
- <p>
- <h3 align="center">
+<div align="left">
+  <b><pwn>🔴 🟡 🟢</pwn></b>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+pwnwriter+here+:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=10&size=22" />
-<br>
-</br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+pwnwriter+here+:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=10&size=22" />
+  
+  <sub><samp><a href="https://pwnwriter.xyz">Website</a> // <a href="https://ko-fi.com/pwnwriter">Sponsor me</a> // <a href="https://matrix.to/#/@pwnwriter:matrix.org">Matrix</a> // <a href="https://gpg.pwnwriter.xyz">GPG key</a></samp></sub>
+  </div>
 
-<sub><samp><a href="https://pwnwriter.xyz">Website</a> // <a href="https://ko-fi.com/pwnwriter">Sponser me</a> // <a href="https://matrix.to/#/@pwnwriter:matrix.org">Matrix</a> // <a href="https://gpg.pwnwriter.xyz">Gpg key</samp></sub> 
-
-<br/>
 
 
 
