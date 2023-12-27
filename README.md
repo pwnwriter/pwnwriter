@@ -1,4 +1,5 @@
-<!-- Macos like icons -->
+<!--- Copyright @pwnwriter, Under the WTFPL license--->
+
 <div align="left">
   <b><pwn>🔴 🟡 🟢</pwn></b>
 </div>
@@ -9,12 +10,9 @@
   <sub><samp><a href="https://pwnwriter.xyz">🚩 Website</a> // <a href="https://ko-fi.com/pwnwriter">🍦 Sponsor me</a> // <a href="https://matrix.to/#/@pwnwriter:matrix.org">🌬️ Matrix</a> // <a href="https://gpg.pwnwriter.xyz">🍃 GPG key</a></samp></sub>
   </div>
 
-
-<details> <summary>stats</summary>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pwnwriter&show_icons=true&hide_border=true&bg_color=181825&text_color=cdd6f4&icon_color=f5c2e7&hide_title=true&include_all_commits=true&count_private=true&ring_color=f5c2e7&border_radius=8" style="margin-bottom: 20px;" />
 </div>
-</details>
 
 <!-- Social icons
 <p align="center">
