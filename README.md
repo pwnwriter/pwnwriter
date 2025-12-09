@@ -1,5 +1,17 @@
-##### Hey, PwnWriter here !
+<h5>Hey, PwnWriter here !</h5>
 
-I make and break softwares professionally. Currently obsessed with [`Rust`](https://rustlang.org) and [`Nix`](https://nixos.org) ecosystems. 
+<p>
+I make and break software for a living. Currently obsessed with <a href="https://rust-lang.org"><code>Rust</code></a> and <a href="https://nixos.org"><code>Nix</code></a> ecosystems.
+</p>
 
-<sub><samp><a href="https://github.com/pwnwriter.gpg">B681763F9B5BDF27</a> // <a href="https://pwnwriter.me">pwn::musings</a> // <a href="https://ko-fi.com/pwnwriter">Ko-fi</samp></sub>
+<p align="center">
+  <samp>
+    <a href="https://github.com/pwnwriter.gpg">B681763F9B5BDF27</a> •
+    <a href="https://pwnwriter.me">pwn::musings</a> •
+    <a href="https://ko-fi.com/pwnwriter">Ko-fi</a>
+  </samp>
+</p>
+
+<p align="right">
+  <img width="240" height="60" src="https://github.com/user-attachments/assets/f8cbd977-a823-4d1d-9131-e9615b3bae1a" alt="signature" />
+</p>
