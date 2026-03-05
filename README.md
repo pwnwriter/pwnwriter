@@ -13,5 +13,7 @@ I make and break software for a living. Currently obsessed with <a href="https:/
 </p>
 
 <p align="right">
-  <img width="240" height="60" src="https://github.com/user-attachments/assets/f8cbd977-a823-4d1d-9131-e9615b3bae1a" alt="signature" />
-</p>
+    <img width="240" height="60" src="https://github.com/user-attachments/assets/20fbad7b-4720-47da-b28e-3b9f09211a0d" alt="signature" />
+  </p>
+
+
