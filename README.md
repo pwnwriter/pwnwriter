@@ -13,9 +13,3 @@ I make and break software for a living. Currently obsessed with <a href="https:/
   </samp>
 </p>
 
-<p align="center">
-  <samp>
-    anonymous confessions → <a href="https://eipi.boo"><code>$ ssh eipi.boo</code></a>
-  </samp>
-</p>
-
